@@ -10,5 +10,6 @@ git add .
 git commit -m "Auto-update on $(date +'%Y-%m-%d %H:%M:%S')"
 
 # Push changes to the main branch
-git push origin main
+git push origin master
+
 
