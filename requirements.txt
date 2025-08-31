@@ -28,3 +28,7 @@ sentencepiece==0.2.1
 six==1.17.0
 sounddevice==0.5.2
 tzdata==2025.2
+tensorflow
+opencv-python
+numpy
+
