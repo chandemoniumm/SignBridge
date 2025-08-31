@@ -20,13 +20,33 @@ This repository contains the source code and resources for the SignBridge projec
 1. Clone the repository:
 https://github.com/chandemoniumm/SignBridge.git
 
+isl_project/
+├── auto_push.sh
+├── code/
+│   ├── extract_pose_hand_landmarks.py
+│   └── isl_pose_hand_landmarks.csv
+├── data/
+│   └── ISL_CSLRT_Corpus/
+├── LICENSE
+├── readme.txt
+├── requirements.txt
+├── venv/
+│   ├── bin/
+│   ├── include/
+│   ├── lib/
+│   ├── lib64 -> lib
+│   ├── pyvenv.cfg
+│   └── share/
+
+
 2. Install required dependencies:
 pip install -r requirements.txt
 
 3. Download the dataset from Kaggle:
 [Indian Sign Language Dataset on Kaggle](https://www.kaggle.com/datasets/drblack00/isl-csltr-indian-sign-language-dataset?resource=download)
 
-4. Run scripts or models as needed (add usage instructions)
+
+4. Run scripts or models as needed 
 
 ## Contributing
 
