@@ -42,4 +42,3 @@ Contributions are welcome! Feel free to open issues or pull requests.
 ## License  
 This project is licensed under the MIT License.
 
-The README.md file is ready for use in the repository. Let me know if any further customization is needed!
