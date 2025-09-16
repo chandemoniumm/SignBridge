@@ -34,10 +34,10 @@ python3 gui.py
 Make sure you have Python 3 and required dependencies installed. You may install dependencies via:
 
 ```bash
-pip install -r requirements.txt````
+pip install -r requirements.txt
+```
 
-## Contributing  
-Contributions are welcome! Feel free to open issues or pull requests.
+
 
 ## License  
 This project is licensed under the MIT License.
