@@ -1,0 +1,9 @@
+numpy
+opencv-python
+mediapipe
+tensorflow
+language-tool-python
+PyQt5
+keyboard
+scikit-learn
+
