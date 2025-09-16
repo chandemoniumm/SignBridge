@@ -8,7 +8,7 @@ SignBridge is an application designed for Indian Sign Language (ISL) data collec
 Run the GUI application for data collection of sign language gestures.
 
 ```bash
-# Launch the GUI to collect data```thon3 gui.py```After data```llection, exit```e GUI
+# Launch the GUI to collect data 
 ```
 
 ### Step 2: Model Training  
